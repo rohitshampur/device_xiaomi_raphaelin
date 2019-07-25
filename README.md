@@ -1,6 +1,6 @@
 Copyright (C) 2019 - The LineageOS Project
 
-Device configuration for Xiaomi Redmi K20 Pro (raphael)
+Device configuration for Xiaomi Redmi K20 Pro (raphaelin)
 ==============
 
 Basic   | Spec Sheet
